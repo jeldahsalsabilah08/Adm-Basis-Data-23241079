@@ -1,5 +1,5 @@
--- Nama : Wiwin arningsih 
--- NIM : 23241099
+-- Nama : jeldah talia 
+-- NIM : 23241079
 -- Kelas : C 
 
 -- Melihat database yang ada
